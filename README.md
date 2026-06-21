@@ -67,4 +67,4 @@ Ana sayfa ve detay ekranına ait örnek görseller `screenshots` klasöründe ye
 
 ## GitHub
 
-Teslim sırasında GitHub repository linki buraya eklenecektir.
+https://github.com/esmauuid/flutterminikatalog.git
